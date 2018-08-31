@@ -1,0 +1,5 @@
+c:\users\gc student\Source\Repos\MovieDatabase\Movies.Domain\bin\Debug\Movies.Domain.dll
+c:\users\gc student\Source\Repos\MovieDatabase\Movies.Domain\bin\Debug\Movies.Domain.pdb
+c:\users\gc student\Source\Repos\MovieDatabase\Movies.Domain\obj\Debug\MovieDatabase.Domain.csproj.CoreCompileInputs.cache
+c:\users\gc student\Source\Repos\MovieDatabase\Movies.Domain\obj\Debug\Movies.Domain.dll
+c:\users\gc student\Source\Repos\MovieDatabase\Movies.Domain\obj\Debug\Movies.Domain.pdb
